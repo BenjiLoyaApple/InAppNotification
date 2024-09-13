@@ -11,6 +11,7 @@
 		E4B031E82C945BDF005A9E03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B031E72C945BDF005A9E03 /* ContentView.swift */; };
 		E4B031EA2C945BE1005A9E03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B031E92C945BE1005A9E03 /* Assets.xcassets */; };
 		E4B031ED2C945BE1005A9E03 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B031EC2C945BE1005A9E03 /* Preview Assets.xcassets */; };
+		E4B031F42C945C45005A9E03 /* InAppExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B031F32C945C45005A9E03 /* InAppExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E4B031E72C945BDF005A9E03 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E4B031E92C945BE1005A9E03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4B031EC2C945BE1005A9E03 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E4B031F32C945C45005A9E03 /* InAppExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InAppExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E4B031E52C945BDF005A9E03 /* InAppNotificationApp.swift */,
 				E4B031E72C945BDF005A9E03 /* ContentView.swift */,
+				E4B031F32C945C45005A9E03 /* InAppExtensions.swift */,
 				E4B031E92C945BE1005A9E03 /* Assets.xcassets */,
 				E4B031EB2C945BE1005A9E03 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4B031E82C945BDF005A9E03 /* ContentView.swift in Sources */,
+				E4B031F42C945C45005A9E03 /* InAppExtensions.swift in Sources */,
 				E4B031E62C945BDF005A9E03 /* InAppNotificationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
